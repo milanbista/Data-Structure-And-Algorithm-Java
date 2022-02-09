@@ -8,8 +8,8 @@ public class TwoSum {
 		//find out if the given number is obtained by adding two numbers from the given array
 		//example [1,4,7,9] sum = 10
 		int[] array = {1,2,7,9};
-		int sum = 9;
-		System.out.println(twoSum(array, sum));
+		int n = 9;
+		System.out.println(twoSum(array, n));
 		
 	}
 	
