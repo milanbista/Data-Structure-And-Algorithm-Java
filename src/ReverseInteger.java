@@ -3,7 +3,7 @@ public class ReverseInteger {
 
 	public static void main(String[] args) {
 		
-		int number = 124534;
+		int number = 12400534;
 		int reversedNumber = reverse(number);
 		System.out.println("Original number " + number + " \nReversed number " + reversedNumber);
 	}
